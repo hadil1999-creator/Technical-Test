@@ -39,5 +39,15 @@ Those are the steps to deploy and reproduce my product using Deep Q-Learning:
  
  10-install stable-baselines3[extra]
 
+Code:
+
+1- setup the environement of RL
+
+2- Intialize parameters: alpha, gamma, timestamp
+
+3-Training the agent
+
+4-Evaluating the agent
+
 
 
