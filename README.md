@@ -26,18 +26,18 @@ Those are the steps to deploy and reproduce my product using Deep Q-Learning:
  
  -- Install pygame snips:
 
-8-install stable-baselines3[extra]
 
+8-install Anaconda 
 
-9-install Anaconda 
-
-10- Install pytorch:
+9- Install pytorch:
  
  --check the pytorch version
  
  --import torch, torchvision
  
  -- add the extension Pytorch snippets which provides faster worflow while using PyTorch or torchvision library in vs code.
+ 
+ 10-install stable-baselines3[extra]
 
 
 
