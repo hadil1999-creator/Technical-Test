@@ -5,7 +5,7 @@ It aims to create an AI dedicated in hiding. From a 12x12 matrice, the AI will l
 
 Since it's my first time dealing with Reinforcement Learning or even develop an AI model without a notebook, I satrted by research, which is highlighted in the pdf intitled "Research"
 
-Those are the steps to deploy and reproduce my product using Q-Learning:
+Those are the steps to deploy and reproduce my product using Deep Q-Learning:
 
 1-Install VS code
 
@@ -29,11 +29,15 @@ Those are the steps to deploy and reproduce my product using Q-Learning:
 8-install stable-baselines3[extra]
 
 
-9-install Cuda
+9-install Anaconda 
 
 10- Install pytorch:
  
  --check the pytorch version
  
  --import torch, torchvision
+ 
+ -- add the extension Pytorch snippets which provides faster worflow while using PyTorch or torchvision library in vs code.
+
+
 
