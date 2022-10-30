@@ -1,6 +1,6 @@
 # Jubmo-Mana-Technical-Test
 
-This repository is related to a technical test given by Jumbp Mana company.
+This repository is related to a technical test given by Jumbo Mana company.
 It aims to create an AI dedicated in hiding. From a 12x12 matrice, the AI will learn to hide from a red turret. The player is randomly placed.
 
 Since it's my first time dealing with Reinforcement Learning or even develop an AI model without a notebook, I satrted by research, which is highlighted in the pdf intitled "Research"
